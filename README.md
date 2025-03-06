@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Le Bao Anh Nguyen</h1>
 <h3 align="center">A passionate junior backend developer</h3>
 
-- 🌱 I’m currently learning **JavaScript, Python, C#**
+- 🌱 I’m currently learning **JavaScript, Python, C#**, Java
 
 - 📫 How to reach me **nguyenlebaoanh05@gmail.com**
 
